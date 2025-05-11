@@ -78,6 +78,12 @@
       "key": "l",
       "path": "./sentences/l.json",
       "timestamp": 1619024460771
+    },
+    {
+      "name": "测试库",
+      "key": "m",
+      "path": "./sentences/m.json",
+      "timestamp": 9999999999999
     }
   ]
 }
